@@ -1,13 +1,28 @@
-Reply from 1.1.1.1, 29 bytes in 15.37ms
-Reply from 1.1.1.1, 29 bytes in 13.36ms
-Reply from 1.1.1.1, 29 bytes in 21.42ms
-Reply from 1.1.1.1, 29 bytes in 12.36ms
-
-Round Trip Times min/avg/max is 12.36/15.63/21.42 ms
-sleep time: 2697 seconds, or 45 minutes 57 secondsReply from 1.1.1.1, 29 bytes in 14.94ms
-Reply from 1.1.1.1, 29 bytes in 13.29ms
-Reply from 1.1.1.1, 29 bytes in 13.45ms
-Reply from 1.1.1.1, 29 bytes in 11.89ms
-
-Round Trip Times min/avg/max is 11.89/13.39/14.94 ms
-sleep time: 2951 seconds, or 49 minutes 11 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1
+As of 2022-03-05 15:47:38.682903:
+Reply from 1.1.1.1, 29 bytes in 14.89ms
+
+Reply from 1.1.1.1, 29 bytes in 14.62ms
+
+Reply from 1.1.1.1, 29 bytes in 12.98ms
+
+Reply from 1.1.1.1, 29 bytes in 11.94ms
+
+
+
+Round Trip Times min/avg/max is 11.94/13.61/14.89 ms 
+sleep time: 2931 seconds, or 49 minutes 51 seconds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2
+As of 2022-03-05 15:47:47.303909:
+Reply from 1.1.1.1, 29 bytes in 15.49ms
+
+Reply from 1.1.1.1, 29 bytes in 14.26ms
+
+Reply from 1.1.1.1, 29 bytes in 12.63ms
+
+Reply from 1.1.1.1, 29 bytes in 12.01ms
+
+
+
+Round Trip Times min/avg/max is 12.01/13.6/15.49 ms 
+sleep time: 3327 seconds, or 55 minutes 27 seconds
